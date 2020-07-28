@@ -4,7 +4,7 @@ Meu nome é Leonardo Porfírio. Comecei a estudar Tecnologia da Informação no 
 
 Onde me encontrar:
 
-[LinkdeIn](https://www.linkedin.com/in/leonardo-porf%C3%ADrio-290954192/)
+[LinkdeIn](https://www.linkedin.com/in/leonardo-porf%C3%ADrio-290954192/) [Twitter](https://twitter.com/leozin_porfirio)
 
 <!--
 **leozin-porfirio/leozin-porfirio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-##### Novo no ramo de Tecnologia da Informação. Buscando, através de novas oportunidades, adquirir conhecimento e desenvolvimento profissional em uma posição inicial e desafiadora na área de programação. Sou paciente e leal. Gosto de me comunicar e trabalhar em equipe.
+Meu nome é Leonardo Porfírio. Comecei a estudar Tecnologia da Informação no ano de 2019 em Outubro. Busco, através de novas oportunidades, adquirir conhecimento e desenvolvimento profissional na área de programação.
+
+Onde me encontrar:
+
+[LinkdeIn](https://www.linkedin.com/in/leonardo-porf%C3%ADrio-290954192/)
 
 <!--
 **leozin-porfirio/leozin-porfirio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

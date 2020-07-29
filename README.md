@@ -1,17 +1,16 @@
-### Hi there 👋
+### Olá Pessoal 👋
 
-Meu nome é Leonardo Porfírio. Comecei a estudar Tecnologia da Informação no ano de 2019 em Outubro. Busco, através de novas oportunidades, adquirir conhecimento e desenvolvimento profissional na área de programação.
+- Meu nome é Leonardo Porfírio
+- Estudo Programação desde Outubro de 2019
+- Sou Desenvolvedor Front-End
+- 🌱 Estudando: HTML, CSS, JavaScript, ReactJs
+- 📫 Me encontre: [LinkdeIn](https://www.linkedin.com/in/leonardo-porf%C3%ADrio-290954192/) | [Twitter](https://twitter.com/leozin_porfirio)
+- Fato curioso: 
 
-Onde me encontrar:
-
-[LinkdeIn](https://www.linkedin.com/in/leonardo-porf%C3%ADrio-290954192/) [Twitter](https://twitter.com/leozin_porfirio)
-
-<!--
-**leozin-porfirio/leozin-porfirio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+# 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -19,4 +18,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->

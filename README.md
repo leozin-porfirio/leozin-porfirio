@@ -1,20 +1,8 @@
 ### Olá Pessoal 👋
 
-- Meu nome é Leonardo Porfírio
-- Estudo Programação desde Outubro de 2019
-- Sou Desenvolvedor Front-End
-- 🌱 Estudando: HTML, CSS, JavaScript, ReactJs
-- 📫 Me encontre: [LinkdeIn](https://www.linkedin.com/in/leonardo-porf%C3%ADrio-290954192/) | [Twitter](https://twitter.com/leozin_porfirio)
-- Fato curioso: 
-
-
-Here are some ideas to get you started:
-
-# 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ✔️ Meu nome é Leonardo Porfírio
+- 💻 Estudo Programação desde Outubro de 2019
+- 🚀 Sou Desenvolvedor Front-End
+- 🧠 Estudando: HTML, CSS, JavaScript, ReactJs
+- 💬 Me encontre: [LinkdeIn](https://www.linkedin.com/in/leonardo-porf%C3%ADrio-290954192/) | [Twitter](https://twitter.com/leozin_porfirio)
+- 🕹️ Fato curioso: Amo Jogos

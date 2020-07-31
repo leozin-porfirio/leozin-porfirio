@@ -1,6 +1,6 @@
 ### Olá Pessoal 👋
 
-- ✅ Meu Nome é Leonardo Porfírio
+- ✔️ Meu Nome é Leonardo Porfírio
 - 💻 Estudo Programação desde Outubro de 2019
 - 🚀 Sou Desenvolvedor Front-End
 - 🧠 Estudando Agora: HTML, CSS, JavaScript, ReactJs

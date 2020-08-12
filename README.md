@@ -6,4 +6,4 @@
 - 🧠 Estudando Agora: HTML, CSS, JavaScript, ReactJS
 - 📚 Futuros Intereses nos Estudos: NodeJs, React Native
 - 🕹️ Fatos Curiosos: Gosto de Jogos, Praia, Cerveja, Academia e Nutrição
-- 💬 Onde me Encontrar: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-porf%C3%ADrio-290954192/)](https://www.linkedin.com/in/leonardo-porf%C3%ADrio-290954192/)
+- 💬 Onde me Encontrar: [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=LTwitter&logoColor=white&link=https://twitter.com/leozin_porfirio/)](https://twitter.com/leozin_porfirio/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-porf%C3%ADrio-290954192/)](https://www.linkedin.com/in/leonardo-porf%C3%ADrio-290954192/)
